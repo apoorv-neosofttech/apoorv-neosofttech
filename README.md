@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Software Engineer at Neosoft Technologies
-- :computer: I've working experience in dotnet and Angular
+- :computer: I've working experience in DotNet and Angular
 - 🌱 I’m currently learning NestJs and Blazor
 - ⚡ Fun fact: I enjoy learning new stuff more than working with the stuff I already know
 
