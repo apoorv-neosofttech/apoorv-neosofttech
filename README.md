@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Apoorv Rane's stats](https://github-readme-stats.vercel.app/api?username=apoorv-neosofttech&count_private=true&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-neosofttech)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-neosofttech&layout=compact&theme=onedark)
 
