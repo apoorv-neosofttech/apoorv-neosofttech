@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=apoorv-neosofttech&count_private=true&show_icons=true&theme=onedark" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-neosofttech&layout=compact&theme=onedark" />
