@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :computer: I've working experience in DotNet and Angular
 - 🌱 I’m currently learning NestJs and Blazor
 - ⚡ Fun fact: I enjoy learning new stuff more than working with the stuff that I already know
-
+### Languages and Tools:  
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
