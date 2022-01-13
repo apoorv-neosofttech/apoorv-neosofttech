@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NestJs and Blazor
 - ⚡ Fun fact: I enjoy learning new stuff more than working with the stuff I already know
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=apoorv-neosofttech)
+![Github stats](https://github-readme-stats.vercel.app/api?username=apoorv-neosofttech&count_private=true)
 
